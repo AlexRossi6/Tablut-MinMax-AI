@@ -21,3 +21,4 @@
 The alghorithm used is based on a tree search, more precisely the minmax with heuristics.
 
 
+![image](https://user-images.githubusercontent.com/56583448/90744890-655ead80-e2d0-11ea-8733-4d67f9cf0c38.png)
